@@ -16,9 +16,9 @@
 - 👍About me: I love to play video games, draw, read and play instruments!
 
 ### Languages and Tools:
-- I use Visual Studio Code
-- I'm experienced at python, C, C# and C++
-- I'm new to HTML, JS and CSS however I learn fast!
+- I use **Visual Studio Code!**
+- I'm **experienced** at **python**, **C**, **C#** and **C++**
+- I'm new to **HTML**, **JS** and **CSS** however I learn fast!
 - I use a windows machine however I am considering moving to an arch based os in the near future!
 
 ![HenryDewsnap's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenryDewsnap&show_icons=true&theme=radical)
