@@ -15,8 +15,8 @@
 - 😃Goals: Contribute more to Open Source Projects and Start a few myself!
 - 👍About me: I love to play video games, draw, read and play instruments!
 
-### Languages and Tools:
-- I use **Visual Studio Code!**
+### 💾 Languages and Tools 💾:
+- I use **Visual Studio Code!** 
 - I'm **experienced** at **python**, **C**, **C#** and **C++**
 - I'm new to **HTML**, **JS** and **CSS** however I learn fast!
 - I use a windows machine however I am considering moving to an arch based os in the near future!
