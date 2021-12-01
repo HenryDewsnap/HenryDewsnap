@@ -13,16 +13,16 @@
 - I use a windows machine however I am considering moving to an arch based os in the near future!
 
 <div align="center">
-<a href="https://github.com/Explorer017/">
+<a href="https://github.com/HenryDewsnap/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenryDewsnap&hide=shaderlab,hlsl&theme=github_dark&hide_border=true" />
 </a>
-<a href="https://github.com/Explorer017/">
+<a href="https://github.com/HenryDewsnap/">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=HenryDewsnap&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&hide_border=true" />
 </a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/Explorer017/">
+  <a href="https://github.com/HenryDewsnap/">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=HenryDewsnap&show_icons=true&theme=dark" />
   </a>
 </div>
