@@ -1,6 +1,6 @@
 ### Hi there, I'm Henry!
 
-## I'm a full time student, hobbyist programmer and have a passion for computation!
+## I'm a full time GCSE student, hobbyist programmer and have a passion for computation!
 - 🌱I'm constantly trying to learn new things!
 - 💻I'm always looking to collaborate with other developers!
 - 😃Goals: Contribute more to Open Source Projects and Start a few myself!
