@@ -4,7 +4,7 @@
 - 🌱I'm constantly trying to learn new things!
 - 💻I'm always looking to collaborate with other developers!
 - 😃Goals: Contribute more to Open Source Projects and Start a few myself!
-- 👍About me: I love to play video games, draw, read and play instruments!
+- 👍About me: I love to play video games, read and play instruments!
 
 ### 💾 Languages and Tools 💾:
 - I use **Visual Studio Code!** 
